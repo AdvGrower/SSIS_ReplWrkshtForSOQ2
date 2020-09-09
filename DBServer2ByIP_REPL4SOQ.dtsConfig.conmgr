@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DBServer2ByIP_REPL4SOQ.dtsConfig"
+  DTS:DTSID="{2761CA56-F52A-4E48-A5D6-999D3F0A03FA}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="\\DBSERVER3\ImportFiles\DBServer2ByIP_REPL4SOQ.dtsConfig" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
